@@ -1,0 +1,28 @@
+/* Creates the application style */
+
+body{
+    background-color: rgb(206, 218, 241);
+}
+
+h1, h2, h3, h4, h5{
+    font-family: Verdana, Arial, sans-serif;
+}
+
+h1{
+    font-size: 24px;  color: rgb(7, 7, 133);
+    text-align: left;
+}
+
+h2{font-size: 0.8em; }
+
+h3{font-size: 0.6em; text-align: center;}
+
+th{
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 12px;  color: rgb(124, 30, 6);
+}
+
+p{
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 14px;  color: rgb(170, 44, 13);
+}
