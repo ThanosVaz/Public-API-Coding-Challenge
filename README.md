@@ -1,7 +1,5 @@
-# Public-API-Coding-Challenge
-Consumes data from a public API, Performs some manipulation on the data, Outputs results
+# Public API Coding Challenge
 
-The Challenge
 Write a simple app that will do the following:
  Consume data from a public facing API
  Perform some manipulation or interrogation on the data from the API
